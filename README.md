@@ -17,8 +17,8 @@ This repository documents my learning journey as a Software Quality Assurance En
 - Cloned the repository locally
 
 ### QA Skills I Want to Develop
-- Git
-- Github
-- Playwright
+- Git — version control and change management
+- GitHub
+- Playwright — JavaScript browser automation
 - CI/CD
-- Github Actions
+GitHub Actions — automated test execution and CI
