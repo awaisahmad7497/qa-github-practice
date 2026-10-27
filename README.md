@@ -21,4 +21,4 @@ This repository documents my learning journey as a Software Quality Assurance En
 - GitHub
 - Playwright — JavaScript browser automation
 - CI/CD
-GitHub Actions — automated test execution and CI
+- GitHub Actions — automated test execution and CI  
