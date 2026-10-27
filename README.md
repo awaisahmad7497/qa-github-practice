@@ -16,9 +16,16 @@ This repository documents my learning journey as a Software Quality Assurance En
 - Installed and configured Git
 - Cloned the repository locally
 
-### QA Skills I Want to Develop
+## QA Skills I Want to Develop
 - Git — version control and change management
 - GitHub
 - Playwright — JavaScript browser automation
 - CI/CD
 - GitHub Actions — automated test execution and CI  
+
+## Git Workflow Learned
+- Created a feature branch
+- Committed changes
+- Pushed the branch to GitHub
+- Opened a pull request
+- Merged the changes
