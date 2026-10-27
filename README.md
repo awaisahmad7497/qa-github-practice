@@ -15,3 +15,4 @@ This repository documents my learning journey as a Software Quality Assurance En
 - Created my first GitHub repository
 - Installed and configured Git
 - Cloned the repository locally
+- New commit added 
