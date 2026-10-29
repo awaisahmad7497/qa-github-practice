@@ -1,0 +1,3 @@
+Learning the Git staging area
+
+Understanding unstaged and staged changes
