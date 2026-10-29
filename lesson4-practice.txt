@@ -1,3 +1,7 @@
 Learning the Git staging area
 
 Understanding unstaged and staged changes
+
+My first staged change
+
+My second unstaged change
