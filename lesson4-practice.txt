@@ -5,3 +5,5 @@ Understanding unstaged and staged changes
 My first staged change
 
 My second unstaged change
+
+Added text from github
